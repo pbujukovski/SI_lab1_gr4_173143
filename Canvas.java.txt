@@ -1,0 +1,29 @@
+class Canvas{
+	list= new list List<Points>
+ 	string color;
+	
+	//TODO constructor
+	 Point(id,x,y,color){
+		
+		this->color=color;
+
+		}
+	//TODO setters and getters
+		
+
+		string *getColor(){
+     		return color;
+    		}	
+
+
+
+	public void Color() {
+		//TODO
+		for(int i=0; i<id; i++){
+			syste.out.prinln("tockata ima boja " + cololr);
+		}
+	}
+
+
+
+}
